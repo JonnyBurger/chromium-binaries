@@ -10,3 +10,4 @@ cdk.out
 chromiums/*
 packages/*
 releases/*
+.env
