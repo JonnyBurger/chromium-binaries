@@ -15,7 +15,7 @@ jobs:
       fail-fast: false
       matrix:
         al_version: [al2023]
-        architecture: [arm64, x86]
+        architecture: [arm64]
     env:
       ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
       PYTHON_VERSION: 3.10.14
